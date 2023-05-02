@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "app2",
+			"path": "."
+		},
+		{
+			"name": "pfe_absence",
+			"path": "../../../xampp/htdocs/pfe_absence"
+		}
+	],
+	"settings": {}
+}
